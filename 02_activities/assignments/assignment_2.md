@@ -12,10 +12,18 @@
       ```
       Your answer...
 
+    Good Visualitation: https://public.tableau.com/app/profile/naresh.suglani/viz/LondoninNumbers/LondonDemographics
+    ![image](https://github.com/user-attachments/assets/c9e2c88a-0749-4218-b40f-2b7886d4c3c5)
+
+    I classified this visualization as good because all the information is very well organized. The clarity of the presentation is one of its strongest aspects, making it easy for viewers to grasp the main points. The layout is structured in a way that ensures every detail is accessible without being overwhelming.        This organization contributes significantly to the overall effectiveness of the visualization.The color schemes and design choices enhance readability and focus. Colors are used strategically to highlight key elements, making it easy to follow the flow of information. This thoughtful application of design         
+    principles helps viewers quickly identify important trends and insights. Moreover, the consistent style across all graphics contributes to a cohesive look, reinforcing the overall message.
 
 
 
+    Bad Visualitation: https://www.mathworks.com/matlabcentral/fileexchange/35274-matlab-plot-gallery-bar-graph-3d?focused=6793108&tab=example
+    ![image](https://github.com/user-attachments/assets/e84d343d-1486-44d8-a5df-d8a448e9a626)
 
+     One of the main issues is that it becomes almost impossible to read the values after the month of June.The arrangement of the text is another area of concern. The text placement appears to be poorly managed, which contributes to the overall difficulty in reading and understanding the results. When textual             elements are not organized coherently, they can distract from the data and make it harder for viewers to follow the information being presented. Additionally, the use of a 3D effect further complicates the readability of the visualization. While 3D effects can sometimes enhance visual appeal, in this case, they       create more confusion than clarity. 
 
 
       ```
