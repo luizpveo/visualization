@@ -31,6 +31,7 @@
     - How could this data visualization have been improved?  
      
       Your answer...
+
         For the good visualization, there is very little that I would change.The only improvement I would suggest is adding more filters to make the visualization more specific. Additional filters could allow users to interact with the data in a more nuanced way, enabling them to focus on particular aspects or subsets of the information. This would enhance the utility of the visualization by providing more detailed insights and allowing for customized views based on individual needs or preferences.
 
       For the bad visualization, several changes would significantly improve its effectiveness. First, I would split the single graphic into multiple, more manageable graphics. This would enhance readability by reducing clutter and making it easier for viewers to interpret the data. Simplifying the presentation can help in focusing on specific details without overwhelming the audience. Additionally, I would replace the 3D bars with a line graph. While 3D effects can sometimes add visual interest, they often complicate data interpretation. A line graph would provide a clearer view of trends and values, making it easier to follow the data over time. Finally, the text arrangement needs to be improved. Currently, the text is disorganized and difficult to read, which detracts from the overall effectiveness of the visualization. By reorganizing the text and ensuring it is well-aligned and clear, viewers will be able to better understand the results.
