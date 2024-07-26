@@ -9,8 +9,8 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+     
+
 
         Good Visualitation: https://public.tableau.com/app/profile/naresh.suglani/viz/LondoninNumbers/LondonDemographics
     
@@ -27,7 +27,7 @@
          One of the main issues is that it becomes almost impossible to read the values after the month of June.The arrangement of the text is another area of concern. The text placement appears to be poorly managed, which contributes to the overall difficulty in reading and understanding the results. When textual             elements are not organized coherently, they can distract from the data and make it harder for viewers to follow the information being presented. Additionally, the use of a 3D effect further complicates the readability of the visualization. While 3D effects can sometimes enhance visual appeal, in this                  case,they       create more confusion than clarity. 
 
 
-      ```
+ 
     - How could this data visualization have been improved?  
       ```
       Your answer...
