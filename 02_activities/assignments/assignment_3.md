@@ -6,20 +6,33 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
-        Your answer...
+    
+
+  Good Visualitation: https://public.tableau.com/app/profile/naresh.suglani/viz/LondoninNumbers/LondonDemographics
+
+  Accessibility: The use of color and contrast might need improvement for accessibility. Some color combinations might be difficult to distinguish for people with color vision deficiencies.
+
+  Reproducible: Without access to the code used to create the visualization, it is difficult to reproduce and modify it.
+
+  Equitable: The visualization includes data on various aspects of London, such as population, housing, crime, and health. However, it's important to consider whether the data represents the diverse population of London equitably.
+
+    ----------------------------------------------------------
+
+  Bad Visualitation:  https://www.mathworks.com/matlabcentral/fileexchange/35274-matlab-plot-gallery-bar-graph-3d?focused=6793108&tab=example
+
+  Accesibility: The 3D effect can distort the perception of data, making it difficult to accurately compare values. 
+
+  Reproducible: The data source is not explicitly mentioned, making it difficult to verify the accuracy and reproducibility of the visualization.
 
 
-
-        ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
-        Your answer...
 
+    Good Visualitation:
+    I would incorporate color contrast and alternative text to make it accessible to people with disabilities. I would provide more detailed information about the data sources and methods and share the code to enable reproducibility and collaboration.
 
-
-        ```
-
+    Bad Visualization:
+    I would convert to 2D, a 2D bar chart would provide a clearer and more accurate representation of the data and I would improve the color contrast.
+  
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
 ### Why am I doing this assignment?:
