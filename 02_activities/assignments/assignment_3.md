@@ -9,14 +9,20 @@
     
 
   Good Visualitation: https://public.tableau.com/app/profile/naresh.suglani/viz/LondoninNumbers/LondonDemographics
-        Accessibility:the use of color and contrast might need improvement for accessibility. Some color combinations might be difficult to distinguish for people with color vision deficiencies.
-        Reproducible: Without access to the code used to create the visualization, it is difficult to reproduce and modify it.
-        Equitable: The visualization includes data on various aspects of London, such as population, housing, crime, and health. However, it's important to consider whether the data represents the diverse population of London equitably.
+
+  Accessibility:the use of color and contrast might need improvement for accessibility. Some color combinations might be difficult to distinguish for people with color vision deficiencies.
+
+  Reproducible: Without access to the code used to create the visualization, it is difficult to reproduce and modify it.
+
+  Equitable: The visualization includes data on various aspects of London, such as population, housing, crime, and health. However, it's important to consider whether the data represents the diverse population of London equitably.
+
 
   Bad Visualitation:  https://www.mathworks.com/matlabcentral/fileexchange/35274-matlab-plot-gallery-bar-graph-3d?focused=6793108&tab=example
-        Accesibility: The 3D effect can distort the perception of data, making it difficult to accurately compare values. 
-        Reproducible: The data source is not explicitly mentioned, making it difficult to verify the accuracy and reproducibility of the visualization.
-        Equitable:
+
+  Accesibility: The 3D effect can distort the perception of data, making it difficult to accurately compare values. 
+
+  Reproducible: The data source is not explicitly mentioned, making it difficult to verify the accuracy and reproducibility of the visualization.
+
 
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
 
