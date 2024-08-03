@@ -4,11 +4,27 @@
 
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
-- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
-- Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
-- For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
+- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/).
+Dataset: https://open.toronto.ca/dataset/tcdsb-schools/
+- Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.
 
+
+
+
+Using Tableau:
+![image](https://github.com/user-attachments/assets/316d8b52-1700-4090-85cc-21ea21492cb8)
+
+
+
+
+
+- For each visualization, describe and justify:
+
+Visualization 1 :![image](https://github.com/user-attachments/assets/46bf0f86-6770-4f22-b078-76ae3720819a)
+
+    > What software did you use to create your data visualization?
+    Phyton
+    
     > Who is your intended audience? 
     
     > What information or message are you trying to convey with your visualization? 
