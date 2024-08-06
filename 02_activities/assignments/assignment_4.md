@@ -4,26 +4,69 @@
 
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
-- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
-- Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
-- For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
+- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/).
+Dataset: https://open.toronto.ca/dataset/tcdsb-schools/
+- Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.
 
+- For each visualization, describe and justify:
+
+Visualization 1 : ![image](https://github.com/user-attachments/assets/46bf0f86-6770-4f22-b078-76ae3720819a)
+
+    > What software did you use to create your data visualization?
+    Python
+    
     > Who is your intended audience? 
+    Parents that are looking for schools in Toronto
     
     > What information or message are you trying to convey with your visualization? 
+    Showing the numbers of school by level ( E – Elementary S – Secondary AL – Adult Learning  ADM – Administration Building) and the number of schools by municipality
     
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+    I tried to use simple and clean visualizations
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    I would share my code and I would ensure that the data I use is accessible to anyone
     
     > How did you ensure that your data visualization is accessible?  
+    I would use colorblind-Friendly palettes and descriptive Labels
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+    Parents that are looking for schools in differents Municipals 
     
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+    I tried to find the primary questions or insights
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+    It took some time to determine which libraries I would need to create this visualization. In the end, I used Pandas, matplotlib.pyplot, and Seaborn
+
+Visualization 2 : ![image](https://github.com/user-attachments/assets/0abaea69-6647-4ebf-85b3-e44a99fbd3f7)
+
+    > What software did you use to create your data visualization?
+    Tableau Public
+    
+    > Who is your intended audience? 
+    Parents that are looking for schools in Toronto
+    
+    > What information or message are you trying to convey with your visualization? 
+    I created a visualization that shows the number of schools by each zip code in the city of Toronto
+    
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+    I tried to use simple and clean visualizations
+    
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    I would share my Tableau file and I would ensure that the data I use is accessible to anyone
+    
+    > How did you ensure that your data visualization is accessible?  
+    My visualization has interactive elements like filters that provide additional information (type of School) 
+    
+    > Who are the individuals and communities who might be impacted by your visualization?  
+    Parents that are looking for schools in differents Municipals 
+    
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+    I tried to find the primary questions or insights
+    
+    > What ‘underwater labour’ contributed to your final data visualization product?
+    It took some time to performing initial data exploration to understand patterns, distributions, and anomalies
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
