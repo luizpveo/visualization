@@ -9,27 +9,34 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+     
+
+
+        Good Visualitation: https://public.tableau.com/app/profile/naresh.suglani/viz/LondoninNumbers/LondonDemographics
+    
+        ![image](https://github.com/user-attachments/assets/c9e2c88a-0749-4218-b40f-2b7886d4c3c5)
+
+        I classified this visualization as good because all the information is very well organized. The clarity of the presentation is one of its strongest aspects, making it easy for viewers to grasp the main points. The layout is structured in a way that ensures every detail is accessible without being                      overwhelming. This organization contributes significantly to the overall effectiveness of the visualization.The color schemes and design choices enhance readability and focus. Colors are used strategically to highlight key elements, making it easy to follow the flow of information. This thoughtful application of design principles helps viewers quickly identify important trends and insights. Moreover, the consistent style across all graphics contributes to a cohesive look, reinforcing the overall message.
 
 
 
+        Bad Visualitation: https://www.mathworks.com/matlabcentral/fileexchange/35274-matlab-plot-gallery-bar-graph-3d?focused=6793108&tab=example
+   
+         ![image](https://github.com/user-attachments/assets/e84d343d-1486-44d8-a5df-d8a448e9a626)
+
+         One of the main issues is that it becomes almost impossible to read the values after the month of June.The arrangement of the text is another area of concern. The text placement appears to be poorly managed, which contributes to the overall difficulty in reading and understanding the results. When textual             elements are not organized coherently, they can distract from the data and make it harder for viewers to follow the information being presented. Additionally, the use of a 3D effect further complicates the readability of the visualization. While 3D effects can sometimes enhance visual appeal, in this                  case,they       create more confusion than clarity. 
 
 
-
-
-      ```
+ 
     - How could this data visualization have been improved?  
-      ```
+     
       Your answer...
 
+        For the good visualization, there is very little that I would change.The only improvement I would suggest is adding more filters to make the visualization more specific. Additional filters could allow users to interact with the data in a more nuanced way, enabling them to focus on particular aspects or subsets of the information. This would enhance the utility of the visualization by providing more detailed insights and allowing for customized views based on individual needs or preferences.
 
-
-
-
-
+      For the bad visualization, several changes would significantly improve its effectiveness. First, I would split the single graphic into multiple, more manageable graphics. This would enhance readability by reducing clutter and making it easier for viewers to interpret the data. Simplifying the presentation can help in focusing on specific details without overwhelming the audience. Additionally, I would replace the 3D bars with a line graph. While 3D effects can sometimes add visual interest, they often complicate data interpretation. A line graph would provide a clearer view of trends and values, making it easier to follow the data over time. Finally, the text arrangement needs to be improved. Currently, the text is disorganized and difficult to read, which detracts from the overall effectiveness of the visualization. By reorganizing the text and ensuring it is well-aligned and clear, viewers will be able to better understand the results.
       
-      ```
+  
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
